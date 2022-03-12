@@ -1,13 +1,3 @@
 # silver-spoon
 
-
-
-
-
-
-Primer encuentro con GIT
-
-
-asdfafdfas
-super primer encuentro
-jasjajaja
+Alto menú me hice estoy super orgulloso
